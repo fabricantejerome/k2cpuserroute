@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="system" method="upgrade">
+    <name>plg_system_verge</name>
+    <author>Cameron Barr</author>
+    <creationDate>December 2016</creationDate>
+    <copyright>Copyright (C) 2016, Cameron Barr, Magnetic Merchandising. All rights reserved.</copyright>
+    <license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
+    <authorEmail>cbarr@magneticmerchandising.com</authorEmail>
+    <authorUrl>magneticmerchandising.com/</authorUrl>
+    <version>1.0</version>
+    <description>System Plugin that routes k2 user urls to Community Builder user/profile pages</description>
+    <files>
+        <filename plugin="verge">verge.php</filename>
+    </files>
+</extension>
